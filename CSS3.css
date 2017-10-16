@@ -1,0 +1,30 @@
+p {
+    font-size: 23px;
+    font-family: aria;
+    font-weight: bold;
+    width: 880px;
+    margin-left: 500px;
+    background-color: rgba(241, 242, 242,0.86); 
+}
+
+H1 {
+    font-size: 50px;
+    font-family: aria;
+    font-weight: bold;    
+    background-color: rgba(241, 242, 242,0.86);
+    width: 580px;
+    margin-left: 650px;
+}
+
+body {background-image: URL('page1.jpg');}
+
+table {
+    width: 800px;
+    height: 200px;
+    background-color:  rgba(241, 242, 242,0.86);
+    margin-left: 535px;
+    margin-top: 70px;
+    font-size: 18;
+    font-family: arial;
+    font-weight:bold;
+}

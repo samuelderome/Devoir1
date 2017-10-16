@@ -1,0 +1,18 @@
+body {
+    background-image: URL('page1.jpg');
+    
+}
+H1 {font-size : 72px;}
+button{
+    background-color :greenyellow;
+    font-size : 25px;
+    border-color :greenyellow;
+    height :85px;
+    width: 190px;
+    border-radius: 18px;
+    margin-left: 500px;
+    margin-top: 180px;
+    font-weight: bold;
+    
+   
+}
